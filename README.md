@@ -290,13 +290,13 @@ The complete experimental results, including comparison counts, are stored in `r
 
 ### Time vs. n
 
-![Time vs n](images/time_vs_n.png)
+![Time vs n](docs/plots/time_vs_n.png)
 
 The graph shows how execution time changes when the input increases from 1,000 to 100,000.
 
 ### Recursion Depth vs. n
 
-![Recursion Depth vs n](images/recursion_depth_vs_n.png)
+![Recursion Depth vs n](docs/plots/recursion_depth_vs_n.png)
 
 The recursion-depth graph shows that recursion depth grows much more slowly than the input size for the divide-and-conquer algorithms.
 
